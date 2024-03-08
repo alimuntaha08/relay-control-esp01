@@ -18,6 +18,9 @@ https://github.com/alimuntaha08/relay-control-esp01/blob/main/RelayControl%20V.1
 Download File *.ino
 https://github.com/alimuntaha08/relay-control-esp01/blob/main/esp01_relaycontrol_app_dht11.ino
 
+[![Watch the video](https://github.com/alimuntaha08/relay-control-esp01/blob/main/1709904614163.jpg)]([https://youtu.be/T-D1KVIuvjA](https://youtube.com/shorts/Ecf1QFHPfpQ?si=zIQ2SIVJ5JfUQQ3E))
+
+
 Dashboard:
 ![image](https://github.com/alimuntaha08/relay-control-esp01/blob/main/1709904614163.jpg)
 

@@ -15,14 +15,19 @@ Hardware kamu bisa membuatnya sendiri, jika tidak mau kesulitan, kamu bisa order
 Dashboard:
 ![image](https://github.com/alimuntaha08/relay-control-esp01/blob/main/1709904614163.jpg)
 
+
 Mobile:
+
 ![image](https://github.com/alimuntaha08/relay-control-esp01/blob/main/1709904614214.png)
 
 Hardware:
+
 ![image](https://github.com/alimuntaha08/relay-control-esp01/blob/main/sm_switch.jpg)
 
 Hardware:
+
 ![image](https://github.com/alimuntaha08/relay-control-esp01/blob/main/sm_switch_insid.jpg)
 
 Link pembelian hardware:
+
 https://shopee.co.id/product/169084802/24064620899/

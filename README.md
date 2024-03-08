@@ -12,4 +12,6 @@ Dan masih banyak fitur lainnya..!
 Dapatkan segera di play store dan nikmati kemudahannya!..GRATIS! 
 Hardware kamu bisa membuatnya sendiri, jika tidak mau kesulitan, kamu bisa order modul ESP01 Relay atau paket yang sudah jadi dari kami!
 
-https://github.com/alimuntaha08/relay-control-esp01/blob/main/1709904614163.jpg
+Dashboard:
+![image](https://github.com/alimuntaha08/relay-control-esp01/blob/main/1709904614163.jpg)
+

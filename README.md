@@ -12,6 +12,12 @@ Dan masih banyak fitur lainnya..!
 Dapatkan segera di play store dan nikmati kemudahannya!..GRATIS! 
 Hardware kamu bisa membuatnya sendiri, jika tidak mau kesulitan, kamu bisa order modul ESP01 Relay atau paket yang sudah jadi dari kami!
 
+Download File APK:
+https://github.com/alimuntaha08/relay-control-esp01/blob/main/RelayControl%20V.1.0.1.apk
+
+Download File *.ino
+https://github.com/alimuntaha08/relay-control-esp01/blob/main/esp01_relaycontrol_app_dht11.ino
+
 Dashboard:
 ![image](https://github.com/alimuntaha08/relay-control-esp01/blob/main/1709904614163.jpg)
 

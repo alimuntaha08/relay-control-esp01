@@ -21,6 +21,9 @@ https://github.com/alimuntaha08/relay-control-esp01/blob/main/esp01_relaycontrol
 Video:
 https://youtube.com/shorts/Ecf1QFHPfpQ?si=zIQ2SIVJ5JfUQQ3E
 
+https://youtube.com/shorts/5JjgWn86KsU?si=cZ72L3bJnyEFxANB
+
+
 Dashboard:
 ![image](https://github.com/alimuntaha08/relay-control-esp01/blob/main/1709904614163.jpg)
 

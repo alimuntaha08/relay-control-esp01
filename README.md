@@ -28,7 +28,10 @@ https://youtube.com/shorts/5JjgWn86KsU?si=cZ72L3bJnyEFxANB
 
 Dashboard:
 ![image](https://github.com/alimuntaha08/relay-control-esp01/blob/main/1709904614163.jpg)
-
+Connection type MQTT: (full online)
+![image](https://github.com/alimuntaha08/relay-control-esp01/blob/main/1710381451523.jpg)
+Connection type IP:
+![image](https://github.com/alimuntaha08/relay-control-esp01/blob/main/1710381451539.jpg)
 
 Mobile:
 

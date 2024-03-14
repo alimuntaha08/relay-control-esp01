@@ -8,8 +8,10 @@ Sehingga kamu tidak perlu kuatir membuat kuota internetmu menjadi boros.  Kamu c
 Banyak kemudahan yang diperoleh antara lain:
 1. Mengontrol lampu tanpa harus beranjak dari tempat. 
 2. Mematikan TV dan kipas angin dari handphone
+   
 Dan masih banyak fitur lainnya..! 
-Dapatkan segera di play store dan nikmati kemudahannya!..GRATIS! 
+Dapatkan segera di play store dan nikmati kemudahannya!..GRATIS!
+
 Hardware kamu bisa membuatnya sendiri, jika tidak mau kesulitan, kamu bisa order modul ESP01 Relay atau paket yang sudah jadi dari kami!
 
 Download File APK:

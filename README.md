@@ -10,7 +10,7 @@ Banyak kemudahan yang diperoleh antara lain:
 2. Mematikan TV dan kipas angin dari handphone
    
 Dan masih banyak fitur lainnya..! 
-Dapatkan segera di play store dan nikmati kemudahannya!..GRATIS!
+Dapatkan segera di play store dan nikmati kemudahannya!.
 
 Hardware kamu bisa membuatnya sendiri, jika tidak mau kesulitan, kamu bisa order modul ESP01 Relay atau paket yang sudah jadi dari kami!
 
